@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XXYnr
+- 👋 Hi, I’m @AZRTX
 - 👀 Curently interested on:
     - Design
     - Making website
@@ -8,6 +8,6 @@
     - Discord: ItzXynr#9326
 
 <!---
-XXYnr/XXYnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AZRTX/AZRTX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
